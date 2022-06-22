@@ -1,0 +1,4 @@
+- Hi, I’m @b4ndo - Pedro Andilossi
+- I’m interested in AI/ML, DataOps, Python and Products.
+- I’m currently enrolled in Computer's Engineering bachelor at Universidade Positivo.
+- How to reach me: https://www.linkedin.com/in/pedro-andilossi-b14415180/
