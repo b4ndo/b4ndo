@@ -9,8 +9,8 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![Python]
-![Scrum]
+- Python
+- Scrum
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
