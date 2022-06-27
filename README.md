@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [NTT Ltd.](https://www.linkedin.com/company/global-ntt/)
 
-- 💬 I like to study **Python, AI/ML, Data and Products**
+- 💬 I like to study **Python, AI/ML, Data and Product MGMT**
 
 ## 🛠 &nbsp;Tech Stack
 
